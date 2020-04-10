@@ -61,6 +61,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Testing:
 - Tests built using [JEST](https://jestjs.io/) and [Enzyme](https://enzymejs.github.io/enzyme/).
 
+### Server:
+- The server is created using [Express](https://expressjs.com/) and MVC architecture.
+
 ## Available Scripts
 
 In the project directory, you can run:
