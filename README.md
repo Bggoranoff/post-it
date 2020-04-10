@@ -1,4 +1,4 @@
-## PosterIt
+## PostIt
 A print-on-demand e-commerce site for posters.
 
 ## Website Structure
