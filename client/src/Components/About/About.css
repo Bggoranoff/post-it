@@ -11,9 +11,9 @@ h2 {
 }
 
 .website-description {
-    text-align: center;
     border: 1px solid lightgrey;
     margin: 5vw;
+    margin-left: 1vw;
     margin-top: 4vh;
     margin-bottom: 18vh;
     font-size: 150%;
