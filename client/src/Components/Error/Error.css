@@ -1,0 +1,10 @@
+.error-container {
+    font-family: monospace;
+    text-align: center;
+    color: #943126;
+}
+
+.error-image {
+    margin: auto;
+    margin-top: 2vh;
+}

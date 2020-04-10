@@ -1,0 +1,66 @@
+.Login {
+    width: 83%;
+    display: inline-block;
+    vertical-align: top; 
+    font-family: monospace;
+    text-align: center;
+    margin-top: 9%;
+    height: 100%;
+  }
+  
+  .form-control {
+    width: 30%;
+    margin: 0 auto;
+    padding: 1%;
+    text-align: center;
+  }
+
+  button {
+    text-align: center;
+    font-family: monospace;
+    font-size: 120%;
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 200%;
+  }
+  
+  label {
+    float: left;
+    width: 30%;
+    text-align: right;
+    padding: 1%;
+  }
+  
+  input {
+    text-align: center; 
+    border:1px solid #BDC3C7; 
+    padding: 1%;
+    width: 50%; 
+    color: #2E4053;
+  }
+  
+  form button {
+    width: auto;
+    padding: 2%;
+    font-family: monospace;
+    font-weight: bold;
+  }
+  
+  .error {
+    float: right;
+    padding: 1%;
+  }
+  
+  .fa-check-circle {
+    color: green;
+  }
+  
+  .fa-times-circle {
+    color: red;
+  }
+  
+  i {
+    visibility: hidden;
+  }

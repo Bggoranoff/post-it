@@ -1,0 +1,41 @@
+img {
+  width: 30vw;
+  height: 60vh;
+}
+  .container {
+    border: 1px solid lightgrey;
+    border-radius: 2px;
+    display: inline-block;
+    padding: 10px;
+    background-color: #F2F3F4;
+    margin: 10px;
+  }
+  .caption {
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+  }
+  .divider {
+    background-color: lightgrey;
+  }
+  span {
+    text-align: center;
+  }
+.actionbtn {
+  text-decoration: none;
+  font-family: monospace;
+  border: 1px solid lightgrey;
+  padding: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: black;
+  border-radius: 10%;
+}
+
+.buybtn {
+  background-color: #D5F5E3;
+}
+
+.deletebtn {
+  background-color: #FADBD8;
+}

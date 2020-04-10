@@ -1,0 +1,20 @@
+h2 {
+    text-align: center;
+}
+
+.about-container {
+    font-family: monospace;
+}
+
+.title {
+    padding-top: 2vh;
+}
+
+.website-description {
+    text-align: center;
+    border: 1px solid lightgrey;
+    margin: 5vw;
+    margin-top: 4vh;
+    margin-bottom: 18vh;
+    font-size: 150%;
+}

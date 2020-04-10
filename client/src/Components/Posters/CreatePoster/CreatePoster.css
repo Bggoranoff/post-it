@@ -1,0 +1,64 @@
+.Create {
+    width: 83%;
+    display: inline-block;
+    vertical-align: top; 
+    font-family: monospace;
+    text-align: center;
+    margin-top: 2.5%;
+    min-height: 100%;
+  }
+  
+  .form-control {
+    width: 30%;
+    margin: 0 auto;
+    padding: 1%;
+    text-align: center;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  label {
+    float: left;
+    width: 30%;
+    text-align: right;
+    padding: 1%;
+    font-family: monospace;
+    font-size: 120%;
+  }
+  
+  input {
+    text-align: center;
+    border:1px solid #BDC3C7; 
+    padding: 1%;
+    width: 50%; 
+    color: #2E4053;
+    font-family: monospace;
+  }
+  
+  .description {
+      text-align: left; 
+      border:1px solid #BDC3C7; 
+      padding: 3%;
+      width: 50%; 
+      font-family: monospace;
+      color: #2E4053;
+    }
+  
+  .selectMenu {
+    text-align: center;
+    border: 1px solid #BDC3C7;
+    padding: 1%;
+    width: 50%;
+    color: #2E4053;
+    font-family: monospace;
+    font-size: 115%;
+  }
+  
+  form button {
+    width: auto;
+    padding: 2%;
+    font-family: monospace;
+    font-weight: bold;
+  }

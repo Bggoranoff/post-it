@@ -1,0 +1,18 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #f1f1f1;
+  color: black;
+  text-align: center;
+  height: 10vh;
+}
+  .caption {
+    font-size: 25px;
+    font-family: monospace;
+  }
+  .footerLink {
+    text-decoration: none;
+    color: darkblue;
+  }

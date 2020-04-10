@@ -1,0 +1,23 @@
+img {
+    width: 34vw;
+    height: 60vh;
+  }
+  .container {
+    border: 1px solid lightgrey;
+    border-radius: 2px;
+    display: inline-block;
+    padding: 10px;
+    background-color: #F2F3F4;
+    margin: 10px;
+  }
+  .caption {
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+  }
+  .divider {
+    background-color: lightgrey;
+  }
+  span {
+    text-align: center;
+  }
